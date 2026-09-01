@@ -123,6 +123,9 @@ The full source is in the `src/` folder listed above:
   (Underweight/Normal/Overweight/Obese), a one-line note, the inputs used,
   and buttons to recalculate or start over.
 
+  <img width="1906" height="1101" alt="image" src="https://github.com/user-attachments/assets/0225b052-0b22-4a53-9479-d4608e57be5b" />
+
+
 ### RESULT
 
 The BMI Calculator successfully takes user input for height and weight,
