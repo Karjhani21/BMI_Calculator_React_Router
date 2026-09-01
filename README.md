@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMI Calculator (React + React Router)
 
 A small multi-page BMI calculator built with React and `react-router-dom`.
@@ -128,3 +129,6 @@ The BMI Calculator successfully takes user input for height and weight,
 performs the BMI calculation using React state, event handling, and
 `react-router-dom` navigation, and displays the BMI value along with the
 corresponding health category.
+=======
+
+>>>>>>> ef43e1092651210df979bc82bfee2ed2687f14eb
